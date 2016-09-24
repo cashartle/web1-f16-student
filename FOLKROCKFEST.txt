@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+</head>Folk Rock Fest<head>
+<body>
+
+<h1>Webdesign 1</h1>
+
+
+</head>
+<body>
+	
+	
+	<h3>Mail to: cashartle@massart.edu</h3
+	<p>
+	
+	<p>
+	
+	<h2>List of websites</h2>
+	
+	
+	<ul>1. Netflix</ul>
+	<li>
+		<a href="https://www.netflix.com">netflix.com</a>
+	<a1>Netflix is a website I spend a good amount of time on. I enjoy watching documentaries in particular.</a1>
+	
+	<p>
+	
+	<ul>2. This American Life </ul>
+	<li>
+		<a href="https://www.thisamericanlife.org">thisamericanlife.org</a>
+	<p> 
+		
+		<l12>I am a huge fan of This American Life. I love to listen to their podcasts while I'm doing homework, cooking, or riding on the bus or train. I just go to their archive page and listen to different broadcasts from 1995 to 2016.
+			
+			<p>
+			
+			<ul>3. Pandora</ul>
+			<li>
+			<a href="https://www.pandora.com">pandora.com</a>
+			
+			<p>
+				
+				<l1>I love to listen to Pandora while I'm doing homework (If I get tired of This American Life).</l1>
+				
+				<p>
+					
+					<ul>4. Facebook</ul>
+					<li>
+					<a href="https://www.facebook.com">facebook.com</a>
+						
+						<p>
+							
+							<kr2>Facebook is a website I frequently visit but feel a bit strange about. It always creeped me out a bit. </kr2>
+							
+									
+									<h2>Why I am taking this class and what I hope to achieve through
+										 it?</h2>
+		<p>II don't know very much about web design, but I think it's an extremely useful (and marketable) skill to have as a Graphic Designer. I hope to become skilled in web design and learn to use html and css</p> 
+									
+									<p>
+										<body>
+		<h3>Images of website</h3>
+		<img src="images/thisamericanlife.png" alt="this american life webpage image">
+		<img src="images/facebook.png" alt="facebook webpage image">
+		<img src="images/pandora.png" alt="pandora webpage image">
+										
+										
