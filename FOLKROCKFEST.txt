@@ -1,67 +1,61 @@
 <!DOCTYPE html>
 
-</head>Folk Rock Fest<head>
-<body>
+<link rel="stylesheet" href="folk.css">
+<h1>Boston Folk Rock Fest</h1>
 
-<h1>Webdesign 1</h1>
-
-
-</head>
-<body>
+	<h2>March 18-20, 2017, 12pm-10pm. Boston City Hall Plaza.</h2>
 	
-	
-	<h3>Mail to: cashartle@massart.edu</h3
-	<p>
-	
-	<p>
-	
-	<h2>List of websites</h2>
-	
-	
-	<ul>1. Netflix</ul>
-	<li>
-		<a href="https://www.netflix.com">netflix.com</a>
-	<a1>Netflix is a website I spend a good amount of time on. I enjoy watching documentaries in particular.</a1>
-	
-	<p>
-	
-	<ul>2. This American Life </ul>
-	<li>
-		<a href="https://www.thisamericanlife.org">thisamericanlife.org</a>
-	<p> 
-		
-		<l12>I am a huge fan of This American Life. I love to listen to their podcasts while I'm doing homework, cooking, or riding on the bus or train. I just go to their archive page and listen to different broadcasts from 1995 to 2016.
-			
-			<p>
-			
-			<ul>3. Pandora</ul>
+	<body>
+	<h3>Guitars, Harmonicas, and Banjos Galore!</h3>
+	<p> Our festival celebrates folk, rock, and everything inbetween. Come join us this March the Folk Rock event of the year. We are featuring 15 musical artists both new and old.</p>
+	<h4>The Lineup</h4>
+		<ul>Day 1</ul>
+		<li>12-2pm The Avett Brothers</li>
+		<li>2-4pm Mumford & Sons</li>
+		<li>4-6pm The Decemberists</li>
+		<li>6-8pm Old Crow Medicine Show</li>
+		<li>8-10pm The Lumineers</li>
+		<ul>Day 2</ul>
+		<li>12-2pm Fleet Foxes</li>
+		<li>2-4pm Bon Iver</li>
+		<li>4-6pm Iron & Wine</li>
+		<li>6-8pm Wilco</li>
+		<li>8-10pm Edward Sharpe & the Magnetic Zeroes</li>
+		<ul>Day 3</ul>
+		<li>12-2pm Dawes</li>
+		<li>2-4pm Of Monsters & Men</li>
+		<li>4-6pm Oh No! There's a Cat in my Boot!</li>
+		<li>6-8pm The Vintage Tomatoes</li>
+		<li>8-10pm Banjo Bob & the Tumble Weed Squad</li>
+<h5>Artist Biographies</h5>
+<p>The Avett Brothers are an American folk rock band from Mount Pleasant, North Carolina, United States. The band is made up of two brothers, Scott Avett (banjo) and Seth Avett (guitar), as well as Bob Crawford (double bass) and Joe Kwon (cello). Mike Marsh (drums), Tania Elizabeth (violin) and Paul Defiglia (keyboard) are touring members of the band, with Kwon featured on recordings from 2007's Emotionalism and later.
+</p>
+<p>Mumford & Sons are a British rock band from London, formed in 2007. The band consists of Marcus Mumford (lead vocals, electric guitar, acoustic guitar, drums), Ben Lovett (vocals, keyboard, piano, synthesizer), Winston Marshall (vocals, electric guitar, banjo) and Ted Dwane (vocals, bass guitar, double bass).</p>
+<p>The Decemberists are an American indie folk rock band from Portland, Oregon. The band consists of Colin Meloy (lead vocals, guitar, principal songwriter), Chris Funk (guitar, multi-instrumentalist), Jenny Conlee (keyboards, piano, Hammond organ, accordion), Nate Query (bass), and John Moen (drums).</p>
+<p>Old Crow Medicine Show is an Americana string band based in Nashville, Tennessee that has been recording since 1998. They were formally inducted into the Grand Ole Opry on September 17, 2013. Their ninth album, Remedy, released in 2014, won the Grammy Award for Best Folk Album. The group's music has been called old-time, folk, and alternative country. Along with original songs, the band performs many pre-World War II blues and folk songs.</p>
+<p>The Lumineers are a folk rock band, based in Denver, Colorado. The two founding members and songwriters of the Lumineers are Wesley Schultz (lead vocals, guitar) and Jeremiah Fraites (drums, percussion). Schultz and Fraites began writing and performing together in New Jersey in 2002. Cellist and vocalist Neyla Pekarek joined the band in 2010, after responding to a Craigslist ad.</p>
+<p>Fleet Foxes is an American indie folk band formed in Seattle, Washington.Their first two albums were produced by Sub Pop and Bella Union record labels, while the group is currently unsigned. The band came to prominence in 2008 with the release of its second EP, Sun Giant, and its first, self-titled album Fleet Foxes. Both received much critical praise and reviewers often noted the band's use of refined lyrics and vocal harmonies. Fleet Foxes' second studio album, Helplessness Blues, was released on 3 May 2011.</p>
+<p>Bon Iver is an American indie folk band founded in 2007 by singer-songwriter Justin Vernon. Vernon released Bon Iver's debut album, For Emma, Forever Ago independently in July 2007. The majority of that album was recorded while Vernon spent three months in a cabin in northwestern Wisconsin. Bon Iver won the 2012 Grammy Awards for Best New Artist and Best Alternative Music Album for their album Bon Iver, Bon Iver. The name Bon Iver is derived from the French phrase bon hiver (French pronunciation: , meaning "good winter", taken from a greeting on Northern Exposure.</p>
+<p>Samuel "Sam" Ervin Beam (born July 26, 1974), better known by his stage and recording name Iron & Wine, is an American singer-songwriter. He has released five studio albums, several EPs and singles, as well as a few download-only releases, which include a live album (a recording of his 2005 Bonnaroo performance). He occasionally tours with a full band.</p>
+<p>Wilco is an American alternative rock band based in Chicago, Illinois. The band was formed in 1994 by the remaining members of alternative country group Uncle Tupelo following singer Jay Farrar's departure. Wilco's lineup changed frequently during its first decade, with only singer Jeff Tweedy and bassist John Stirratt remaining from the original incarnation. Since early 2004, the lineup has been unchanged, consisting of Tweedy, Stirratt, guitarist Nels Cline, multi-instrumentalist Pat Sansone, keyboard player Mikael Jorgensen, and drummer Glenn Kotche. Wilco has released ten studio albums, a live double album, and four collaborations: three with Billy Bragg and one with The Minus 5.</p>
+<p>Edward Sharpe and the Magnetic Zeros is an American indie folk band formed in Los Angeles, California in 2007. The group is led by lead singer Alex Ebert. The band's name is based on a story Ebert wrote, when he was a kid, about a messianic figure named Edward Sharpe. Drawing from roots rock, folk, gospel, and psychedelic music, the band's image and sound evoke the hippie movement of the 1960s and 1970s. The group's first show was played July 18, 2007 at The Troubadour in West Hollywood, California. Their first studio album, Up from Below, was released on July 7, 2009 on Community Records and featured the popular single "Home". The group released their second full-length album, Here, on May 29, 2012, and third album, Edward Sharpe and the Magnetic Zeros, on July 23, 2013. Their fourth studio album, PersonA, was released in April 2016.</p>
+<p>Dawes is composed of brothers Taylor (guitars and vocals) and Griffin Goldsmith (drums), along with Wylie Gelber (bass) and Lee Pardini (keyboards). Dawes was formed from the band Simon Dawes after the departure of co-songwriter Blake Mills, subsequently abandoning a post-punk sound in favor of folk rock. Dawes has been described as having a Laurel Canyon sound derived from artists such as Crosby, Stills, and Nash, Joni Mitchell and Neil Young.</p>
+<p>Of Monsters and Men is a five-member, English-language, indie folk-pop band from Reykjavík, Iceland, formed in 2010. The members are lead singer/guitarist Nanna Bryndís Hilmarsdóttir, co-singer-guitarist Ragnar "Raggi" Þórhallsson, guitarist Brynjar Leifsson, drummer Arnar Rósenkranz Hilmarsson and bassist Kristján Páll Kristjánsson.</p>
+<p>Oh No! There's a Cat in my Boot! is an indie Folk band started by former plumber Joeseph Bean. He started the band in 1999 when he tried to put on his shoes and was surprised to find a cat residing in his left boot</p>
+<p>The Vintage Tomatoes is a folk rock band started in 2014 by Florence Roy, Lenny Quack, Geoffrey Tables, and Mary Coconut. The band met at farmer's market in Portland at a tomato stand where they found they all shared a passion for slightly aged tomatoes. They have been playing together ever since.'</p>
+<p>Banjo Bob & the Tumble Weed Squad is a Indie Folk band based out of Boise, Idaho. Members include Banjo Bob, Harmonica Henry, Guitar Gary, and Tambourine Tom.</p>
+	</body>
+			<ul>Tickets available here until March 15th</ul>
 			<li>
-			<a href="https://www.pandora.com">pandora.com</a>
+			<a href="https://www.pandora.com">BostonFolkFest.com</a>
+<h6>Images of past festivals</h6>
 			
-			<p>
-				
-				<l1>I love to listen to Pandora while I'm doing homework (If I get tired of This American Life).</l1>
-				
-				<p>
-					
-					<ul>4. Facebook</ul>
-					<li>
-					<a href="https://www.facebook.com">facebook.com</a>
-						
-						<p>
-							
-							<kr2>Facebook is a website I frequently visit but feel a bit strange about. It always creeped me out a bit. </kr2>
-							
-									
-									<h2>Why I am taking this class and what I hope to achieve through
-										 it?</h2>
-		<p>II don't know very much about web design, but I think it's an extremely useful (and marketable) skill to have as a Graphic Designer. I hope to become skilled in web design and learn to use html and css</p> 
-									
-									<p>
-										<body>
-		<h3>Images of website</h3>
-		<img src="images/thisamericanlife.png" alt="this american life webpage image">
-		<img src="images/facebook.png" alt="facebook webpage image">
-		<img src="images/pandora.png" alt="pandora webpage image">
+		<img src="images/avett.png" alt="Avett Brother Image">
+		<img src="images/Ironandwine.png" alt="iron and wine image">
+	
 										
+
+
+			
+
 										
