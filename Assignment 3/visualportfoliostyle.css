@@ -6,7 +6,7 @@ body {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
-	max-width:50em;
+	max-width:20em;
 	margin-left:6em;
 }
 
@@ -16,7 +16,8 @@ h1 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
+	max-width:60em;
+	line-height: 60.4px;
 }
 
 
@@ -26,5 +27,6 @@ h2 {
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
+	max-width:50em;
 	line-height: 26.4px;
 }
