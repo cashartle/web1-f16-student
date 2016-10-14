@@ -30,3 +30,11 @@ h2 {
 	max-width:50em;
 	line-height: 26.4px;
 }
+
+img {
+	padding: 10px;
+	  float: left;
+	  text-align: center;
+	  width: 130px;
+	  height: 130px;
+}
