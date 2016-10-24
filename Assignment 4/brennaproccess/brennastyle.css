@@ -5,6 +5,7 @@ h1 {
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 60.4px;
+	color: red;
 }
 h2 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
@@ -39,6 +40,22 @@ h5 {
 	line-height: 26.4px;
 }
 h6 {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h7 {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h8 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-size: 25px;
 	font-style: normal;

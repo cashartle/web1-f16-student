@@ -20,7 +20,6 @@ h1 {
 	line-height: 60.4px;
 }
 
-
 h2 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
 	font-size: 24px;
@@ -31,10 +30,9 @@ h2 {
 	line-height: 26.4px;
 }
 
-img {
-	padding: 10px;
-	  float: left;
-	  text-align: center;
-	  width: 130px;
-	  height: 130px;
+
+.pleasework {
+	float: left;
+	margin-right: 20px;
+	
 }
