@@ -6,7 +6,6 @@ body {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
-	max-width:20em;
 	margin-left:6em;
 }
 
@@ -31,8 +30,15 @@ h2 {
 }
 
 
-.pleasework {
+.mainimage {
 	float: left;
-	margin-right: 20px;
-	
+}
+p {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 18.4px;
+	max-width: 15em;
+	font-size: 10px;
 }
