@@ -24,13 +24,20 @@ h2 {
 	font-weight: 500;
 	line-height: 26.4px;
 }
-h3, h4, h5, h6 {
+h3 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+}
+
+hr {
+  border: 3;
+  width: 100%;
+  height: 5px;
+  color: black;
 }
 
 p {
@@ -43,3 +50,4 @@ p {
 	max-width:50em;
 	margin-left:6em;
 }
+p.solid {border-style: solid;}

@@ -1,6 +1,6 @@
 body {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
@@ -31,34 +31,17 @@ h2 {
 }
 h3 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	font-size: 30px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
-}
-h4 {
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	font-size: 30px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
-}
-h5 {
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	font-size: 30px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
-}
-h6 {
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	font-size: 30px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
+	line-height: 26.4px;}
+	
+ul { list-style: none;
+	}
+nav li {
+	display: inline;
+	margin-right: 2em;
+	padding: 14px 0px;
 }
 
