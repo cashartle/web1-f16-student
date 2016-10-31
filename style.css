@@ -18,6 +18,9 @@ h1 {
 	line-height: 26.4px;
 	color:red;
 }
+
+p.solid {border-style: solid;}
+
 h2 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-size: 30px;
