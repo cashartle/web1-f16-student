@@ -6,6 +6,7 @@ body {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
+	max-width:30em;
 	margin-left:6em;
 }
 
