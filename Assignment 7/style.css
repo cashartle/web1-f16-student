@@ -128,13 +128,13 @@ footer a:link, footer a:visited {
 	}
 .sidebar .wrapper { 
 	font: 10px verdana, sans-serif; 
-	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
+	background: top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
 	}
 .sidebar h3.select { 
-	background: transparent url(http://csszengarden.com/001/h3.gif) no-repeat top left; 
+	background:  no-repeat top left; 
 	margin: 10px 0 5px 0; 
 	width: 97px; 
 	height: 16px; 
@@ -144,7 +144,7 @@ footer a:link, footer a:visited {
 	overflow: hidden;
 	}
 .sidebar h3.archives { 
-	background: transparent url(http://csszengarden.com/001/h5.gif) no-repeat top left; 
+	background: 
 	margin: 25px 0 5px 0; 
 	width:57px; 
 	height: 14px; 
@@ -154,7 +154,7 @@ footer a:link, footer a:visited {
 	overflow: hidden;
 	}
 .sidebar h3.resources { 
-	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
+	background: 
 	margin: 25px 0 5px 0; 
 	width:63px; 
 	height: 10px; 
@@ -171,7 +171,7 @@ footer a:link, footer a:visited {
 	}
 .sidebar li {
 	line-height: 1.3em; 
-	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
+	background:  
 	display: block; 
 	padding-top: 5px; 
 	margin-bottom: 5px;
@@ -186,7 +186,7 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat; 
+	background: 
 	position: absolute; 
 	top: 40px; 
 	right: 0; 
