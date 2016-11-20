@@ -17,7 +17,7 @@ h1 {
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 26.4px;
-	color:#67e7f9;
+	color:#black;
 }
 
 p.solid {border-style: solid;}
@@ -55,7 +55,8 @@ nav li a{
 	text-decoration: none
 }*/
 li a:hover {
-    background-color: #111;
+    background-color:#fbf6b2
+	text: #black;
 }
 
 nav ul {
@@ -64,7 +65,7 @@ nav ul {
     margin-left: -6em;
     padding-left: 12em;
     overflow: hidden;
-    background-color: #333333;}
+    background-color: #626464;}
 nav li {
 	float: left;}
 nav li a {
@@ -75,5 +76,5 @@ nav li a {
 	padding: 14px 16px;
 	text-decoration: none;}
 nav li a:hover {
-	    background-color: #67e7f9;}
+	    background-color:#fbf6b2;}
 
