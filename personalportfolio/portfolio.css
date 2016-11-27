@@ -9,6 +9,10 @@ body {
 	margin-left:6em;
 }
 
+.mainimage {
+	float: left;
+	padding: 1em;
+}
 
 h1 {
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
