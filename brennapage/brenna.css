@@ -22,6 +22,11 @@ h1 {
 
 p.solid {border-style: solid;}
 
+.mainimage {
+	float: left;
+	padding: 1em;
+}
+
 h2 {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-size: 30px;
