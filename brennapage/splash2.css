@@ -1,0 +1,14 @@
+body.splash {
+	font-family: Avenir;
+	font-size: 11em;
+	color:  white;
+	margin: 3.75em auto 0 auto;
+	max-width: 80%;
+	text-align: center;
+	background: url("https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/15181642_1527070163986828_1064050770423181650_n.jpg?oh=49ab30af78f71c36d8618a78c8f5b74f&oe=58B1514A")
+	no-repeat center fixed; 
+	background attachment: scroll;
+	background-size: cover; 
+	
+}
+
